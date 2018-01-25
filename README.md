@@ -1,3 +1,3 @@
 # NEEO SDK 
 
-npm friendly, multi-device, single server instance, neeo sdk
+NEEO Server multi-device example, slightly refactored, to allow for drivers to be installed via npm.

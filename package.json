@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mbalders/neeo-multi-device/issues"
   },
-  "homepage": "https://github.com/mbalders/neeo-multi-device#readme"
+  "homepage": "https://github.com/mbalders/neeo-multi-device#readme",
+  "dependencies": {
+    "neeo-sdk": "^0.48.13"
+  }
 }
