@@ -4,11 +4,12 @@ const neeoapi = require('neeo-sdk');
 
 console.log('[ NEEO SDK ] INIT DEVICES');
 
-//include devices
+//include devices installed via npm
 const oppo = require('neeo-oppo-udp-20x');
 
-//device array
+//place constructed devices in araay
 const devices = [oppo];
+
 
 
 function startSdkExample(brain) {
